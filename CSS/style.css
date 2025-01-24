@@ -63,69 +63,62 @@ a{
 /*haeder  css part end  */
 
 /* background   css part start  */
-    .background{
-        background: url(../images/firstbackground.jpg);
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover;
-        height: 717px;
-  
-    }
 
-    .bgcontent{
-        width: 640px;
-        height: 440px;
-        position: absolute;
-        background-color: #FFF3E3;
-        right: 0px;
-        top: 160px;
- 
-    }
+#heroPart{
+    background: url(../images/firstbackground.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top:155px ;
+    padding-bottom: 120px;
+}
+.heroCard{
+    width: 640px;
+    height: 440px;
+    background-color: #FFF3E3;
+    margin-left:  auto;
+    border-radius: 10px;
+}
 
-    .bgcontent h4{
-        padding-top: 65px;
-        font-weight: 700;
-        font-size: 16px;
-        color: #333333;
-        font-family: "Poppins", sans-serif;
-        margin-left: 48px;
-    }
+.heroCard h4{
+    padding-top: 65px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #333333;
+    font-family: "Poppins", sans-serif;
+    margin-left: 48px;
+}
 
-    .bgcontent h1{
-        font-family: "Poppins", sans-serif;
-        padding: 10px 0;
-        font-weight: 700;
-        font-size: 52px;
-        color: #B88E2F;
-        padding-right: 150px;
-        margin-left: 48px;
-    }
-    .bgcontent h3{
-        font-weight: 700;
-        font-size: 16px;
-        color: #333333;
-        font-family: "Poppins", sans-serif;
-        padding-right: 130px;
-        margin-left: 48px;
-    }
+.heroCard h1{
+    font-family: "Poppins", sans-serif;
+    padding: 10px 0;
+    font-weight: 700;
+    font-size: 52px;
+    color: #B88E2F;
+    padding-right: 150px;
+    margin-left: 48px;
+}
+.heroCard h3{
+    font-weight: 700;
+    font-size: 16px;
+    color: #333333;
+    font-family: "Poppins", sans-serif;
+    padding-right: 130px;
+    margin-left: 48px;
+}
+.heroBattan{
+    margin-top: 68px;
 
-    .battan {
-        width: 222px;
-        height: 62px;
-        background-color: #B88E2F;
-        margin-top: 48px;
-        border: none;
-        border-radius: 5px;
-        margin-left: 48px;
-        position: absolute;
-    }
-    .battan a{
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-        position: absolute;
-        color: #000;
-    }
+}
+
+.heroBattan a {
+    padding: 25px 72px;
+    background-color: #B88E2F;
+    border: none;
+    border-radius: 5px;
+    margin-left: 48px;
+    color: #000;
+}
 
 /* background   css part end  */
  
