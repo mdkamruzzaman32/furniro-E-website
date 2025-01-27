@@ -236,7 +236,7 @@ a {
     top: 301px;
     background-color: #F4F5F7;
     height: 143px;
-    width: 285px;
+    width: 265px;
     padding-left: 20px;
 
 }
@@ -324,11 +324,10 @@ a {
 }
 
 .productoverly {
-    height: 144%;
+    height: 100%;
     width: 100%;
     position: absolute;
     top: 0px;
-    ;
     left: 0;
     background-color: #3a3a3ab2;
     opacity: 0;
