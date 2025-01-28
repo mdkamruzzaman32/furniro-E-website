@@ -20,7 +20,6 @@ a {
 }
 
 /*  common  css part end  */
-
 /* haeder css part start  */
 .head {
     height: 100px;
@@ -62,8 +61,6 @@ a {
 .icons i {
     padding: 0 20px;
 }
-
-
 /*haeder  css part end  */
 /* background   css part start  */
 
@@ -75,7 +72,6 @@ a {
     padding-top: 155px;
     padding-bottom: 120px;
 }
-
 .heroCard {
     width: 640px;
     height: 440px;
@@ -295,8 +291,6 @@ a {
     font-weight: 600;
     color: #B88E2F;
     font-family: "Poppins", sans-serif;
-
-
 }
 
 /*  productcs  css part end  */
